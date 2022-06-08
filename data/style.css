@@ -1,0 +1,10 @@
+body {
+  background: #222222;
+  color: #cccccc;
+  font-family: sans-serif;
+}
+
+img {
+  border: 1px #eeeeee;
+  border-radius: 2px;
+}
